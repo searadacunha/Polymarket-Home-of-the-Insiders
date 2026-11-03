@@ -1,0 +1,18 @@
+{
+ "nodes": 3343,
+ "edges": 7211,
+ "by_layer": {
+  "financial": 1453,
+  "control": 116,
+  "infrastructure": 3108,
+  "behaviour": 0,
+  "market": 2534
+ },
+ "cases": 116,
+ "shared_addresses": 12,
+ "by_relation": {
+  "COMMON_FUNDER_CANDIDATE": 5,
+  "FUNDING_OF_ONE_EXIT_OF_ANOTHER": 6,
+  "COMMON_DESTINATION_CANDIDATE": 1
+ }
+}
